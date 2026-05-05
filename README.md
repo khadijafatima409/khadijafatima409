@@ -42,11 +42,19 @@ Practical examples of SOLID principles and design patterns (Strategy, Observer, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=khadijafatima409&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadijafatima409&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijafatima409&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijafatima409&layout=compact&theme=radical)
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=khadijafatima409&color=0E75B6&style=flat-square" alt="Profile Views" />
+  <br/>
+  <em>Thanks for stopping by! 💙</em>
+</div>
 
 ---
 
