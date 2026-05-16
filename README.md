@@ -42,6 +42,42 @@ Practical examples of SOLID principles and design patterns (Strategy, Observer, 
 
 ---
 
+## 🧭 My Builder's Compass
+
+*Not what I'm building — but WHY I build. Updated monthly.*
+
+     🎯 PURPOSE
+          ↑
+🤝 COMMUNITY ← → 🛠️ CRAFT
+          ↓
+    🌱 GROWTH
+
+
+### This Month's True North: *"Build tools that amplify voices, not just features."*
+
+| Direction | What It Means to Me | This Week's Action |
+|-----------|-------------------|-------------------|
+| 🎯 **Purpose** | Code should serve people, not just specs | Added accessibility labels to my Todo app components |
+| 🛠️ **Craft** | Clean, maintainable code is respect for future devs | Refactored JWT middleware + added type hints |
+| 🤝 **Community** | Share knowledge, lift others, learn together | Answered 2 GitHub issues + reviewed a junior's PR |
+| 🌱 **Growth** | Stay curious, embrace "I don't know yet" | Started reading "Designing Data-Intensive Applications" |
+
+<details>
+<summary>💙 The Fatima Factor</summary>
+
+Every commit carries a quiet promise:  
+*"Build forward. Honor always."*
+
+This week, I coded with Fatima in mind when I:  
+→ Made error messages clearer (no one should feel lost)  
+→ Documented my setup steps (help others start faster)  
+→ Paused to test with real users (build for humans, not demos)
+
+</details>
+
+<sub>💙 Days building with purpose: <strong>847</strong> • Next compass update: June 1</sub>
+---
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
