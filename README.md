@@ -28,4 +28,4 @@ while everyone else is asleep.
 
 📍 Lahore, Pakistan  
 🔗 [trywitnessed.com](https://www.trywitnessed.com)  
-📩 *Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/khadija-fatima-986363223/)*
+📩 *Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/khadijafatima409/)*
